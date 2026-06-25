@@ -1,2 +1,2 @@
-# onlinebooking
-легенькая система онлайн записи
+Booking — frontend
+
